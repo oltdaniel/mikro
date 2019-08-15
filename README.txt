@@ -5,7 +5,7 @@ free your thoughts
 # about
 
 write about your mind and plans. public or private. online or offline. just
-writing in pure text.
+writing in pure text. this tool is meant to speed up the workflow.
 
 <code>
     # Start the program
@@ -14,6 +14,11 @@ writing in pure text.
     # Result will be in mikro.txt
     # push.sh will be executed after every write
 </code>
+
+# requirements
+
+- bash
+- vim
 
 # license
 
